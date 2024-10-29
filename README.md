@@ -26,4 +26,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
+
+## Hackoberfest 2024 
+
 [![An image of @khushinigam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushinigam)](https://holopin.io/@khushinigam)
