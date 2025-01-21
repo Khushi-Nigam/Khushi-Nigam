@@ -30,6 +30,3 @@ You can click the Preview link to take a look at your changes.
 ## Hackoberfest 2024 Badges 💻
 
 [![An image of @khushinigam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushinigam)](https://holopin.io/@khushinigam)
-
-[![Khushi 'sGitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Khushi-Nigam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Khushi-Nigam/github-readme-stats#gh-dark-mode-only)
-[![Khushi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Khushi-Nigam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Khushi-Nigam/github-readme-stats#gh-light-mode-only)
