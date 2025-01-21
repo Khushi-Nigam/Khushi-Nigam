@@ -33,7 +33,3 @@ You can click the Preview link to take a look at your changes.
 
 [![Khushi 'sGitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Khushi-Nigam&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Khushi-Nigam/github-readme-stats#gh-dark-mode-only)
 [![Khushi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Khushi-Nigam&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Khushi-Nigam/github-readme-stats#gh-light-mode-only)
-
-Languages Worked:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Nigam&layout=compact)
