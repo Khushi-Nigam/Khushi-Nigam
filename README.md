@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm Khushi, a passionate developer who loves exploring new technologies and building innovative projects. Here's a bit more about me:
 
 ## 🚀 About Me
-- 👋 Hi, I’m @Khushi-Nigam
+- 👋 Hi, I’m Khushi-Nigam
 - 👀 I have experience working as a contributor for GSSOC Extd'24 
 - 🌱 I am a Data Science Aspirant.
 - 💞️ I am currently working with several Python libraries and data visualization tools.
