@@ -32,6 +32,25 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
+## 🛠️ Technologies & Tools
+
+- Programming Languages: JavaScript, C, Python 
+- Frontend: HTML, CSS ,JS
+- Backend: Django
+- Databases: MySQL
+- Tools: Git, Pycharm, VS Code, PowerBI
+
+## 🌐 Connect with Me
+
+- [LinkedIn][(https://www.linkedin.com/in/khushi-nigam/)](https://www.linkedin.com/in/khushinigam7/)
+- [Twitter][(https://twitter.com/khushi_nigam)](https://x.com/Khushi_Nigam007)
+
+## 🏆 Achievements
+
+- Contributed to several open-source projects.
+- Developed a full-stack CRM system for MAARC Labs, several other projects.
+- Completed a certification in Artificial Intelligence by Linkedin.
+- 
 ## Hackoberfest 2024 Badges 💻
 
 [![An image of @khushinigam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushinigam)](https://holopin.io/@khushinigam)
