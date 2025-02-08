@@ -1,3 +1,5 @@
+Welcome to my GitHub profile! I'm Khushi, a passionate developer who loves exploring new technologies and building innovative projects. Here's a bit more about me:
+
 - 👋 Hi, I’m @Khushi-Nigam
 - 👀 I have experience working as a contributor for GSSOC Extd'24 
 - 🌱 Learning Full Stack Development and DSA Concepts
