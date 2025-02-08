@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm Khushi, a passionate developer who loves explo
 ## 🚀 About Me
 - 👋 Hi, I’m @Khushi-Nigam
 - 👀 I have experience working as a contributor for GSSOC Extd'24 
-- 🌱 Learning Full Stack Development and DSA Concepts
-- 💞️ I’m looking to collaborate on my upcoming projects.
+- 🌱 I am a Data Science Aspirant.
+- 💞️ I am currently working with several Python libraries and data visualization tools.
 - 📫 How to reach me nigamkhushi125@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love solving coding challenges and discovering real-life applications.
+- ⚡ Fun fact: I love solving coding challenges and discovering real-life applications, dealing with data.
 
 <!---
 Khushi-Nigam/Khushi-Nigam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
