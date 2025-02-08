@@ -54,3 +54,7 @@ You can click the Preview link to take a look at your changes.
 ## Hackoberfest 2024 Badges 💻
 
 [![An image of @khushinigam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushinigam)](https://holopin.io/@khushinigam)
+
+## HackerRank
+
+https://www.hackerrank.com/profile/nigamkhushi125
