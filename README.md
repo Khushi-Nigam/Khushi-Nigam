@@ -58,3 +58,6 @@ You can click the Preview link to take a look at your changes.
 ## HackerRank
 
 https://www.hackerrank.com/profile/nigamkhushi125
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="khushinigam7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/khushinigam7?trk=profile-badge">Khushi Nigam</a></div>               
