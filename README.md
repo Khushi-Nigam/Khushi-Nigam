@@ -1,6 +1,6 @@
 # Hi there, I'm Khushi Nigam! 👋
 
-Welcome to my GitHub profile! I'm Khushi, a passionate data Science enthusiast who loves exploring new technologies and building innovative projects. Here's a bit more about me:
+Welcome to my GitHub profile! I'm Khushi, a passionate data science enthusiast who loves exploring new technologies and building innovative projects. Here's a bit more about me:
 
 ## 🚀 About Me
 - 👋 Hi, I’m Khushi-Nigam
