@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Technologies & Tools
 
 - Programming Languages: Python (Numpy, Pandas , Matplotlib , Seaborn , Scikit- learn) 
-- Frontend: HTML, CSS ,JS
+- Frontend: HTML, CSS , Bootstrap
 - Backend: Django
 - Cloud - Google Cloud Skills Boost
 - Databases: MySQL
