@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Khushi, a passionate data science enthusiast w
 ## 🚀 About Me
 - 👋 Hi, I’m Khushi-Nigam
 - 👀 I have experience working as a contributor for GSSOC Extd'24 
-- 🌱 I am a Data Science Aspirant.
+- 🌱 I am a Data Analyst Enthusiast.
 - 💞️ I am currently working with several Python libraries and data visualization tools.
 - 📫 How to reach me nigamkhushi125@gmail.com
 - 😄 Pronouns: She/Her
@@ -34,11 +34,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: JavaScript, C, Python 
+- Programming Languages: Python (Numpy, Pandas , Matplotlib , Seaborn , Scikit- learn) 
 - Frontend: HTML, CSS ,JS
 - Backend: Django
+- Cloud - Google Cloud Skills Boost
 - Databases: MySQL
-- Tools: Git, Pycharm, VS Code, PowerBI
+- Tools: Git, Pycharm, VS Code, PowerBI , Tableau
 
 ## 🌐 Connect with Me
 
